@@ -1,5 +1,4 @@
-# dashboard-1
-This is a dashboard application made in R shiny web framework, it uses data collected from a mobile app that is made for Parkinson's disease patients to help assess their symptoms level and medication adherence, the data itself is not uploaded for privacy reasons.
+# A dashboard application made in R shiny web framework, it uses data collected from a mobile app that is made for Parkinson's disease patients to help assess their symptoms level and medication adherence, the data itself is not uploaded for privacy reasons.
 
 
 ![alt text](https://github.com/FadyTawfeek/dashboard-1/blob/main/old_dashboard_info.PNG)
